@@ -122,3 +122,40 @@ footer {
     color: #FFF;
     font-size: 13px;
 }
+
+.personal_information {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    right: 0;
+    bottom: 10px;
+    left: 0;
+}
+
+.personal_information span {
+    margin-top: 10px;
+}
+
+.personal_information span a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+.personal_information span a:hover {
+    background-color: #FFF;
+    color: #000;
+    border-radius: 5px;
+}
+
+.social img {
+    width: 32px;
+    height: 32px;
+    background-color: #FFF;
+    border-radius: 5px;
+}
+
+.social img:hover {
+    border-radius: 10px;
+}
