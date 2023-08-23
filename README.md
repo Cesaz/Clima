@@ -6,6 +6,8 @@
 
 - Utiliza a API da [OpenWeather](https://openweathermap.org/) para mostrar como está o clima em alguma cidade.
 
+- Projeto não está completo, futuramente sofrerá algumas alterações.
+
 ------------------------------------------------------------------------------------------------------------------
 
 # **Weather**
@@ -15,3 +17,5 @@
 # **Description**
 
 - It uses the API from [OpenWeather](https://openweathermap.org/) to display the weather conditions in a particular city.
+
+- The project is not complete, it will undergo some changes in the future.
